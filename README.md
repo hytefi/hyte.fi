@@ -1,4 +1,4 @@
-# [Hyvinvointiteknologia ja Desing for All - kysymys- ja vastaussivusto](http://hyte.fi)
+# [Hyvinvointiteknologia ja Design for All - kysymys- ja vastaussivusto](http://hyte.fi)
 
 Sivusto on tarkoitettu tiedon vaihtoon hyvinvointiteknologiasta kiinnostuneille henkilöille.
 Alustana toimii avoimeen lähdekoodiin pohjautuva [Question2Answer](http://www.question2answer.org/) järjestelmä.
