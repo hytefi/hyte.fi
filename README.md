@@ -14,5 +14,3 @@ Mikäli havaitset puutteita tai virheitä sivustolla niin ilmoita niistä [tää
 Laita tiketti [täällä](https://github.com/hytefi/hyte.fi/issues) niin otan yhteyttä.
 
 Tarkoitus on lisätä myös muita väyliä sivustoa koskevalle palautteelle.
-
-Testi
